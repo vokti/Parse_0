@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af7e31e2-402e-465f-9a77-b1d9537e8f47" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wr2BnWxxRy5NnynVQTCZrkmMUh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.start">
+    <configuration name="qparser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nep" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qparser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nep" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.start" />
+        <item itemvalue="Python.qparser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af7e31e2-402e-465f-9a77-b1d9537e8f47" name="Default Changelist" comment="" />
+      <created>1579893259161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579893259161</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2477" height="413" key="GridCell.Tab.0.bottom" timestamp="1579996462576">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="2477" height="413" key="GridCell.Tab.0.bottom/2622.441.1858.1080/62.0.2498.1440@62.0.2498.1440" timestamp="1579996462576" />
+    <state width="2477" height="413" key="GridCell.Tab.0.center" timestamp="1579996462573">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="2477" height="413" key="GridCell.Tab.0.center/2622.441.1858.1080/62.0.2498.1440@62.0.2498.1440" timestamp="1579996462573" />
+    <state width="2477" height="413" key="GridCell.Tab.0.left" timestamp="1579996462573">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="2477" height="413" key="GridCell.Tab.0.left/2622.441.1858.1080/62.0.2498.1440@62.0.2498.1440" timestamp="1579996462573" />
+    <state width="2477" height="413" key="GridCell.Tab.0.right" timestamp="1579996462573">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="2477" height="413" key="GridCell.Tab.0.right/2622.441.1858.1080/62.0.2498.1440@62.0.2498.1440" timestamp="1579996462573" />
+    <state width="2477" height="508" key="GridCell.Tab.1.bottom" timestamp="1579913877195">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="2477" height="508" key="GridCell.Tab.1.bottom/2622.441.1858.1080/62.0.2498.1440@62.0.2498.1440" timestamp="1579913877195" />
+    <state width="2477" height="508" key="GridCell.Tab.1.center" timestamp="1579913877195">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="2477" height="508" key="GridCell.Tab.1.center/2622.441.1858.1080/62.0.2498.1440@62.0.2498.1440" timestamp="1579913877195" />
+    <state width="2477" height="508" key="GridCell.Tab.1.left" timestamp="1579913877195">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="2477" height="508" key="GridCell.Tab.1.left/2622.441.1858.1080/62.0.2498.1440@62.0.2498.1440" timestamp="1579913877195" />
+    <state width="2477" height="508" key="GridCell.Tab.1.right" timestamp="1579913877195">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="2477" height="508" key="GridCell.Tab.1.right/2622.441.1858.1080/62.0.2498.1440@62.0.2498.1440" timestamp="1579913877195" />
+    <state x="812" y="363" key="SettingsEditor" timestamp="1579893486690">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="812" y="363" key="SettingsEditor/2622.441.1858.1080/62.0.2498.1440@62.0.2498.1440" timestamp="1579893486690" />
+    <state x="1007" y="545" key="com.intellij.ide.util.TipDialog" timestamp="1579893498808">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1007" y="545" key="com.intellij.ide.util.TipDialog/2622.441.1858.1080/62.0.2498.1440@62.0.2498.1440" timestamp="1579893498808" />
+    <state x="974" y="325" width="672" height="678" key="search.everywhere.popup" timestamp="1579914767584">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="974" y="325" width="672" height="678" key="search.everywhere.popup/2622.441.1858.1080/62.0.2498.1440@62.0.2498.1440" timestamp="1579914767584" />
+  </component>
+</project>
